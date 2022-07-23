@@ -1,0 +1,142 @@
+body
+{
+    text-align: center;
+    background-color: rgba(197,228,231,255);
+    font-family: 'Space Mono', monospace;
+    font-size: 1.1em;
+    font-weight: bolder;
+}
+
+
+.box
+{
+    background-color: rgba(255,255,255,255);
+    width: 60%;
+    margin-top: 12rem;
+    border-radius: 10px;
+    padding: 1.8rem 2.2rem;
+}
+
+.sec-col
+{
+    background-color: rgba(0,71,75,255);
+    color: white;
+    border-radius: 10px;
+}
+
+
+.btn-reset
+{
+    background: transparent;
+    /* background-color: rgba(38,194,173,255); */
+    /* margin-top: 5em; */
+    /* margin-bottom: 2em; */
+    margin: 5em auto 2em auto;
+    border-radius: 5px;
+    text-align: center;
+}
+.btn-right
+{
+    width: 100%;
+    background-color: rgba(38,194,173,255);
+}
+.btn-left
+{
+    background-color: rgba(0,71,75,255);
+    color: white;
+    margin: .5em;
+}
+.btn-left-custom
+{
+    background-color: rgba(243,248,251,255);
+    margin: .5em;
+    color: rgba(77,101,98,255);
+    font-weight: bolder;
+}
+.btn
+{
+    width: 85%;
+    text-align: center;
+}
+.btn-left:hover
+{
+    background-color: rgba(38,194,173,255);
+    color: rgba(0,71,75,255);
+}
+.btn-left-custom:hover
+{
+    border-width: 2px;
+    margin: 7px;
+    border-color: rgba(38,194,173,255);
+}
+
+
+.p-graph
+{
+    text-align: left;
+    margin-bottom: .1em;
+    color: rgba(99,115,115,255);
+}
+.p-graph-right
+{
+    text-align: left;
+    margin-left: 10%;
+}
+
+.left-c
+{
+    padding-left: 0;
+
+}
+
+.input-group
+{
+    padding-right: 4%;
+    margin-bottom: 8%;
+}
+.input-group-text
+{
+    background-color: rgba(243,248,251,255);
+    border-right: 0;
+}
+.form-control
+{
+    border-left: 0;
+    background-color: rgba(243,248,251,255);
+    text-align: right;
+}
+
+.tip-amount-div
+{
+    margin-bottom: 8%;
+}
+.price
+{
+    font-size: 2.8em;
+    color: rgba(46,192,173,255);
+}
+
+.right-sec
+{
+    margin-top: 10%;
+}
+.main-text
+{
+    font-weight: bolder;
+    color: rgba(233,249,251,255);
+}
+.sub-text
+{
+    color: rgba(88,144,149,255)
+    ;
+}
+#sml
+{
+    color: red;
+}
+
+input
+{
+    font-size: 1.5%;
+    color: rgba(0,71,75,255);
+}
