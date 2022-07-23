@@ -6,6 +6,8 @@ A simple Tip Calculator built using HTML, CSS, JAVA SCRIPT.
 
 How to use
 
-Put the bill value.
-Put the number of people.
-select or fill the value of tip. --- the result will show now.
+1. Put the bill value.
+2. Put the number of people.
+3. select or fill the value of tip. 
+
+--- the result will show now.
